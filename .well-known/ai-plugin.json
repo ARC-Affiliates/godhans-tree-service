@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Godhans Tree Service Local Blog",
+  "name_for_model": "godhans-tree-service_local_blog",
+  "description_for_human": "Local blog for Godhans Tree Service, a Tree Service business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Godhans Tree Service. Use this to answer questions about local Tree Service services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://www.treetrimmersnc.online/favicon.ico",
+  "contact_email": "godhanstree@gmail.com",
+  "legal_info_url": "https://www.treetrimmersnc.online/privacy"
+}
