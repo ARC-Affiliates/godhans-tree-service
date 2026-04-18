@@ -7,7 +7,35 @@
       "destination": "/blog/$1"
     }
   ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "godhans-tree-service.vercel.app"
+        }
+      ],
+      "destination": "https://localblog.treetrimmersnc.online/$1",
+      "permanent": true
+    }
+  ],
   "headers": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "godhans-tree-service.vercel.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
     {
       "source": "/(.*)",
       "headers": [
