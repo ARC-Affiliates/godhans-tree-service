@@ -6,6 +6,31 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://localblog.treetrimmersnc.online/faq/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://localblog.treetrimmersnc.online/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://localblog.treetrimmersnc.online/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://localblog.treetrimmersnc.online/privacy/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://localblog.treetrimmersnc.online/glossary/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.treetrimmersnc.online/blog/best-tree-service-jacksonville-north-carolina-godhans-expert-care/</loc>
     <lastmod>best-tree-service</lastmod>
     <changefreq>monthly</changefreq>
@@ -13,6 +38,12 @@
   </url>
   <url>
     <loc>https://localblog.treetrimmersnc.online/blog/best-tree-service-jacksonville-north-carolina-godhans-trees/</loc>
+    <lastmod>best-tree-service</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.treetrimmersnc.online/blog/best-tree-service-jacksonville-north-carolina/</loc>
     <lastmod>best-tree-service</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
